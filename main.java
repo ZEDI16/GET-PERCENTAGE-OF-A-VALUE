@@ -2,7 +2,7 @@
 
    public class Main {
 	static Scanner castillo_scan = new Scanner(System.in);	      
-        private static int Percent, Number, TotalNum, Case, Case2;
+        private static int Percent, Number, TotalNum, Case;
 	public static void Input(){
 		System.out.print("INPUT OBTAINED  VALUE: ");
 		Number = castillo_scan.nextInt();
