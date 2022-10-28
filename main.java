@@ -6,7 +6,7 @@
 	public static void Input(){
 		System.out.print("INPUT OBTAINED  VALUE: ");
 		Number = castillo_scan.nextInt();
-		System.out.print("INPUT THE TOTAL VALUE VALUE: ");
+		System.out.print("INPUT THE TOTAL VALUE: ");
          	TotalNum = castillo_scan.nextInt();
 	}
 	public static void Output(){
